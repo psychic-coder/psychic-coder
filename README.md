@@ -8,9 +8,8 @@ As a college student 🎓, I'm constantly seeking opportunities to learn and gro
 
 ## Skills
 
-- **Front-end:** React, HTML, CSS, JavaScript, Bootstrap,Tailwind
-- **Back-end:** Node.js, Express, MongoDB
-- **Languages:** JavaScript, Java
+- **Front-end:** React, HTML, CSS, JavaScript, Bootstrap,Tailwind,Typscript,NextJs
+- **Back-end:** Node.js, Express, MongoDB,Firebase,MySql
 - **Tools:** Git, GitHub, Visual Studio Code, Postman
 
 ## Projects
