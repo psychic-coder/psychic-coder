@@ -24,7 +24,7 @@ My projects are all in the repositories
 
 ## Connect with Me
 
-- 📧 Email: rohitganguly450@.com
+- 📧 Email: rohitganguly450@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/rohit-ganguly-42685521b
 
 Feel free to explore my repositories and reach out if you have any questions or potential collaboration opportunities! I'm always eager to learn and grow. 🚀
