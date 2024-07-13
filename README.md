@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an a Full-Stack Web Developer 💻 with a passion for building innovative and user-friendly web applications. Currently, I'm focusing on mastering the MERN stack to sharpen my skills in both front-end and back-end development.
+I'm an a Full-Stack Developer 💻 with a passion for building innovative and user-friendly web applications. Currently, I'm focusing on mastering the MERN,PERN and MEAN stack to sharpen my skills .
 
 As a college student 🎓, I'm constantly seeking opportunities to learn and grow. I'm dedicated to expanding my knowledge and staying up-to-date with the latest technologies and industry trends.
 
