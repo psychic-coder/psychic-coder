@@ -1,4 +1,4 @@
-# Hello, World! I am psychic-coder(Rohit Ganguly)👋
+# Hello, World! I am psychic-coder(Rohit Ganguly)
 
 ## About Me
 
