@@ -58,7 +58,7 @@ Check out my repositories for a showcase of my latest projects and contributions
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-ganguly-42685521b)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitganguly450@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)]()
 
 Feel free to explore my repositories and reach out if you have any questions or potential collaboration opportunities! I'm always eager to learn, grow, and take on new challenges. 🚀
 
