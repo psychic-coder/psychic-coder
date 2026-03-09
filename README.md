@@ -6,31 +6,6 @@
 
 ## Full-Stack Developer specializing in modern web architectures
 
-```typescript
-class Developer {
-  name: string = "Rohit Ganguly";
-  alias: string = "psychic-coder";
-  
-  skills = {
-    languages: ["JavaScript", "TypeScript", "Python", "Java", "C"],
-    frontend: ["React", "Next.js", "Tailwind CSS", "Vite"],
-    backend: ["Node.js", "Express", "MongoDB", "PostgreSQL", "Redis", "Prisma"],
-    tools: ["Git", "Docker", "CI/CD", "Postman"],
-    architecture: ["Microservices", "JAMstack", "Serverless", "OOP", "DSA"],
-    
-    getExpertise(): string {
-      return "Building scalable applications with modern web technologies";
-    }
-  };
-
-  constructor() {
-    console.log("Ready to collaborate on innovative projects!");
-  }
-}
-
-// Initialize developer instance
-const rohit = new Developer();
-```
 
 ## Tech Arsenal
 
