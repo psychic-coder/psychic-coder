@@ -29,16 +29,16 @@
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  > INITIALIZING ROHIT.EXE                                           ║
 ║  > SCANNING BIO...                                                  ║
-║                                                                      ║
+║                                                                     ║
 ║  ◈  Name        : Rohit Ganguly                                     ║
 ║  ◈  Alias       : psychic-coder                                     ║
 ║  ◈  Location    : Jaipur, India 🇮🇳                                  ║
-║  ◈  Degree      : B.Tech CSE @ Manipal University Jaipur (2027)    ║                  
+║  ◈  Degree      : B.Tech CSE @ Manipal University Jaipur (2027)     ║                  
 ║  ◈  Beekeeper   : Manages both APIs & bee colonies 🐝               ║
 ║  ◈  Superpower  : Antigravity Code — Defies every deadline          ║
 ║  ◈  Mode        : Full-Stack · Mobile · DevOps · AI                 ║
-║                                                                      ║
-║  > STATUS: ACTIVELY BUILDING, LEARNING, DEPLOYING                  ║
+║                                                                     ║
+║  > STATUS: ACTIVELY BUILDING, LEARNING, DEPLOYING                   ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -55,46 +55,11 @@
 
 ### 🔬 Betatest Solutions Pvt. Ltd.
 **Software Engineering Intern** · Nov 2025 – Apr 2026
-
-```yaml
-Stack:
-  - React Native (Expo) → iOS & Android
-  - NestJS (TypeScript) → RESTful APIs
-  - Next.js → B2B Frontend
-  - Azure DevOps → CI/CD Pipelines
-  - New Relic → Production Monitoring
-  - k6 → Load Testing
-
-Shipped:
-  ✅ Settings + Edit Profile (Mobile)
-  ✅ Biometric Auth
-  ✅ i18n: EN + PT-BR
-  ✅ 55+ Pull Requests merged
-  ✅ Cron-based backend automation
-```
-
 </td>
 <td width="50%">
 
 ### 💻 Coding Jr
 **Full-Stack Developer Intern** · Jun 2025 – Aug 2025
-
-```yaml
-Stack:
-  - VS Code Extension API
-  - Eclipse Plugin
-  - Next.js + Node.js
-  - Redis → Context Caching
-  - Figma → Dev handoff
-
-Shipped:
-  ✅ Planto VS Code Extension
-  ✅ Agent Mode + Image-to-Code
-  ✅ Figma-to-Code workflow
-  ✅ AI Resume Builder (LLM-powered)
-  ✅ Redesigned marketing site
-```
-
 </td>
 </tr>
 </table>
@@ -170,20 +135,6 @@ Shipped:
 
 ---
 
-<!-- PROJECTS -->
-## 🚀 &nbsp; PROJECTS — DEPLOYED TO ORBIT
-
-<div align="center">
-
-| 🛰️ Project | 🔭 Stack | 🌍 Live |
-|---|---|---|
-| **💬 Real-Time Chat App** — Multi-user messaging with Socket.IO, JWT auth, admin analytics dashboard, Cloudinary CDN | `React` `Redux` `Socket.IO` `Express` `MongoDB` `Cloudinary` `Chart.js` `Framer Motion` | [→ GitHub](https://github.com/psychic-coder/ChatApp) |
-| **🤖 Planto AI VS Code Extension** — Chat, agent mode, image-to-code, Figma-to-code, Redis caching | `VS Code API` `Node.js` `Redis` `Next.js` | @ Coding Jr |
-| **📱 Mobile App (Settings + Auth)** — Full settings flow, biometric auth, image picker, shipped to production | `React Native` `Expo` `NestJS` `Azure` | @ Betatest |
-
-</div>
-
----
 
 <!-- GITHUB STATS -->
 ## 📊 &nbsp; GITHUB TELEMETRY
@@ -209,9 +160,6 @@ Shipped:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=psychic-coder&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=00ffd1" />
 </div>
-
----
-
 
 ---
 
