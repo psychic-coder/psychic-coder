@@ -17,7 +17,7 @@
 
 <!-- ANIMATED BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=PSYCHIC%20CODER&fontColor=00ffd1&fontSize=70&fontAlignY=38&desc=Defying%20Gravity%20Since%202003&descAlignY=60&descSize=22&animation=fadeIn&fontStyle=italic" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=PSYCHIC%20CODER&fontColor=00ffd1&fontSize=70&fontAlignY=38&desc=Defying%20Gravity%20Since%202004&descAlignY=60&descSize=22&animation=fadeIn&fontStyle=italic" width="100%"/>
 </div>
 
 ---
