@@ -1,0 +1,46 @@
+<svg width="100%" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FFD1" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00FFD1" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00FFD1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" fill="url(#bgGrad)"/>
+
+  <g opacity="0.35" stroke="#00FFD1" stroke-width="0.6">
+    <line x1="0" y1="40" x2="1000" y2="40"/>
+    <line x1="0" y1="180" x2="1000" y2="180"/>
+    <circle cx="80" cy="40" r="2.5" fill="#00FFD1"/>
+    <circle cx="920" cy="180" r="2.5" fill="#00FFD1"/>
+  </g>
+
+  <rect x="0" y="100" width="120" height="2" fill="url(#glow)">
+    <animate attributeName="x" values="-200;1000" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="500" y="108" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace"
+        font-size="50" font-weight="700" fill="#00FFD1" letter-spacing="2">
+    ROHIT GANGULY
+    <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0s" fill="freeze"/>
+  </text>
+
+  <text x="500" y="148" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace"
+        font-size="19" fill="#c9d1d9" letter-spacing="1">
+    Full-Stack &amp; AI Systems Engineer
+    <animate attributeName="opacity" values="0;0;1" dur="2s" begin="0s" fill="freeze"/>
+  </text>
+
+  <g font-family="'Fira Code', 'Courier New', monospace" font-size="13" fill="#6b7280">
+    <text x="500" y="178" text-anchor="middle">
+      React / Next.js · NestJS · RAG &amp; LLM Systems
+      <animate attributeName="opacity" values="0;0;0;1" dur="2.8s" begin="0s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
