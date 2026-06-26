@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ROHIT%20GANGULY&fontSize=55&fontColor=00FFD1&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Systems%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="banner.svg" width="100%" alt="Rohit Ganguly — Full-Stack & AI Systems Engineer"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=900&color=00FFD1&center=true&vCenter=true&width=900&lines=Building+graph-augmented+RAG+systems+%E2%9A%A1;Shipping+real-time+dashboards+%26+dev-tools+%F0%9F%9B%A0%EF%B8%8F;React+Native+%C2%B7+NestJS+%C2%B7+Neo4j+%C2%B7+LangChain;Currently%3A+Software+Engineering+Intern+%40+Betatest;9.06+CGPA+%C2%B7+Dean%27s+List+%C2%B7+Builder+at+heart+%F0%9F%90%9D" alt="Typing SVG" />
+<a href="https://github.com/psychic-coder">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2500&pause=900&color=00FFD1&center=true&vCenter=true&width=900&lines=Building+graph-augmented+RAG+systems;Shipping+real-time+dashboards+%26+dev-tools;React+Native+%C2%B7+NestJS+%C2%B7+Neo4j+%C2%B7+LangChain;Currently%3A+Software+Engineering+Intern+%40+Betatest;9.06+CGPA+%C2%B7+Dean%27s+List+%C2%B7+Builder+at+heart" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -158,6 +158,6 @@ If you're working on AI infra, dev tooling, or anything graph/RAG-shaped — let
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="footer.svg" width="100%" alt=""/>
 
 </div>
