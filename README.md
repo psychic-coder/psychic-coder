@@ -119,7 +119,7 @@ Built the chat interface, agent mode, image-to-code, and Figma-to-code generatio
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,react,nextjs,redux,nodejs,nestjs,express,flask,fastapi&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,golang,python,c,react,nextjs,redux,nodejs,nestjs,express,flask,fastapi&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,neo4j,docker,git,github,azure,postman,figma&theme=dark" />
 
 </div>
