@@ -125,7 +125,7 @@ Built the chat interface, agent mode, image-to-code, and Figma-to-code generatio
 </div>
 
 <table align="center">
-<tr><td><b>Languages</b></td><td>Java · JavaScript (ES6+) · TypeScript · Python · C · SQL</td></tr>
+<tr><td><b>Languages</b></td><td>Java · JavaScript (ES6+) · TypeScript · Python · C · SQL · Go </td></tr>
 <tr><td><b>Frontend</b></td><td>React.js · Next.js · React Native (Expo) · TailwindCSS · Framer Motion</td></tr>
 <tr><td><b>Backend</b></td><td>NestJS · Express.js · Flask · FastAPI · REST APIs · Socket.IO · JWT</td></tr>
 <tr><td><b>Data & AI</b></td><td>PostgreSQL · MongoDB · Redis · Neo4j · Qdrant · LangChain · Anthropic & OpenAI APIs</td></tr>
