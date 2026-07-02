@@ -127,8 +127,7 @@ Five-phase resilience overhaul: circuit breaker fault isolation, **Qdrant**-base
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=psychic-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&text_color=c9d1d9&ring_color=00FFD1"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psychic-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD1&text_color=c9d1d9&langs_count=8"/>
-
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=psychic-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFD1&text_color=c9d1d9&langs_count=8"/>
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=psychic-coder&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1"/>
