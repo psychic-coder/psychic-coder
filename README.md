@@ -94,18 +94,28 @@ Built the chat interface, agent mode, image-to-code, and Figma-to-code generatio
 </tr>
 <tr>
 <td width="50%" valign="top">
+
 ### 🔀 [ShardRoute](https://github.com/psychic-coder/ShardRoute)
 **Distributed Rate Limiter (Go)**
+
 Atomic **Redis Lua scripting** for cross-node consistency, with local in-memory fallback caching and fail-open chaos-tested recovery — **81% P99 latency reduction** under k6 load.
+
 `Go` `Redis` `gRPC` `k6` `Fly.io`
+
 > Chaos-tested via live Redis kill: **96.8% uptime maintained**, 200-goroutine concurrent load split cleanly 100 allowed / 100 rejected under rate-limit enforcement.
+
 </td>
 <td width="50%" valign="top">
+
 ### 🗣️ [Voice2Bite](https://github.com/psychic-coder/Voice2Bite)
 **Voice-First Food Ordering for Visually Impaired Users**
+
 Five-phase resilience overhaul: circuit breaker fault isolation, **Qdrant**-based menu RAG, Go rate-limit gateway, and async order pipeline via **BullMQ**/Socket.IO.
+
 `Node.js` `Go` `Qdrant` `BullMQ` `Socket.IO` `OpenTelemetry`
+
 > Instrumented end-to-end with **OpenTelemetry** distributed tracing across the async pipeline for real-time bottleneck diagnosis.
+
 </td>
 </tr>
 </table>
