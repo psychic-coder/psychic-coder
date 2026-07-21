@@ -3,7 +3,7 @@
 <img src="banner.svg" width="100%" alt="Rohit Ganguly — Full-Stack & AI Systems Engineer"/>
 
 <a href="https://github.com/psychic-coder">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2500&pause=900&color=00FFD1&center=true&vCenter=true&width=900&lines=Building+graph-augmented+RAG+systems;Shipping+real-time+dashboards+%26+dev-tools;React+Native+%C2%B7+NestJS+%C2%B7+Neo4j+%C2%B7+LangChain;Currently%3A+Software+Engineering+Intern+%40+Betatest;9.06+CGPA+%C2%B7+Dean%27s+List+%C2%B7+Builder+at+heart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2500&pause=900&color=00FFD1&center=true&vCenter=true&width=900&lines=Building+graph-augmented+RAG+systems;Shipping+real-time+dashboards+%26+dev-tools;React+Native+%C2%B7+NestJS+%C2%B7+Neo4j+%C2%B7+LangChain;Currently%3A+Software+Engineering+Intern+%40+Betatest;9.06+GPA+%C2%B7+Dean%27s+List+%C2%B7+Builder+at+heart" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@ class RohitGanguly:
     def __init__(self):
         self.role        = "Full-Stack & AI Systems Engineer"
         self.based_in     = "Jaipur, India"
-        self.education    = "B.Tech CSE @ Manipal University Jaipur · 2027 · CGPA 9.06"
+        self.education    = "B.Tech CSE @ Manipal University Jaipur · 2027 · GPA 9.06 (First Semester)"
         self.persona      = "🐝 the beekeeper who builds antigravity systems"
         self.currently     = ["Shipping production features @ Betatest Solutions",
                                "Architecting Graph-RAG pipelines for CodeSage",
