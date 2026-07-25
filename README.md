@@ -117,6 +117,18 @@ Five-phase resilience overhaul: circuit breaker fault isolation, **Qdrant**-base
 > Instrumented end-to-end with **OpenTelemetry** distributed tracing across the async pipeline for real-time bottleneck diagnosis.
 
 </td>
+<td width="50%" valign="top">
+
+### ⚙️ [Real-Time-Limit-Order-Book-Matching-Engine](https://github.com/psychic-coder/Real-Time-Limit-Order-Book-Matching-Engine/)
+**Real-Time Limit Order Book Engine — Go**
+
+Price-time priority matching engine with **one lock-free book per symbol** (single-writer goroutine model — no mutexes, no atomics), write-ahead logged to **Redis Streams**, streaming L2 market depth over WebSocket.
+
+`Go` `Redis Streams` `WebSocket` `k6` `Fly.io`
+
+> Load-tested at **2,314 orders/sec sustained**, p99 order-to-ack of **7.38ms** across 231k orders, zero rejections. Crash recovery verified byte-identical via WAL replay; fail-closed durability sheds cleanly under injected outage at 100% read availability.
+
+</td>
 </tr>
 </table>
 
