@@ -120,7 +120,7 @@ Five-phase resilience overhaul: circuit breaker fault isolation, **Qdrant**-base
   </td>
 <td width="50%" valign="top">
 
-### ⚙️ [Real-Time-Limit-Order-Book-Matching-Engine](https://github.com/psychic-coder/Real-Time-Limit-Order-Book-Matching-Engine/)
+### ⚙️ [Real Time Fraud Detection](https://github.com/psychic-coder/Real-Time-Limit-Order-Book-Matching-Engine/)
 **Real-Time Limit Order Book Engine — Go**
 
 Price-time priority matching engine with **one lock-free book per symbol** (single-writer goroutine model — no mutexes, no atomics), write-ahead logged to **Redis Streams**, streaming L2 market depth over WebSocket.
@@ -128,6 +128,18 @@ Price-time priority matching engine with **one lock-free book per symbol** (sing
 `Go` `Redis Streams` `WebSocket` `k6` `Fly.io`
 
 > Load-tested at **2,314 orders/sec sustained**, p99 order-to-ack of **7.38ms** across 231k orders, zero rejections. Crash recovery verified byte-identical via WAL replay; fail-closed durability sheds cleanly under injected outage at 100% read availability.
+
+</td>
+<td width="50%" valign="top">
+
+### 🕸️ [Fraud & Ring Detection Engine](https://github.com/psychic-coder/Real-Time-Fraud-Detection-Engine)
+**Real-Time Multi-Signal Fraud Pipeline**
+
+Streaming pipeline scoring every transaction against three independent signals — **River** online-learning classifier, **Neo4j** Louvain ring detection, and **Qdrant** cosine similarity for synthetic-identity reuse — merged into an ALLOW/REVIEW/DECLINE decision via circuit-breaker-protected enrichment.
+
+`NestJS` `FastAPI` `Neo4j` `Qdrant` `River` `Redis Streams` `Docker`
+
+> [THROUGHPUT] TPS sustained, p99 [X]ms scoring latency. Fail-open degraded mode verified: [Y]s enrichment-service outage → pipeline continues ML-only with zero stalled transactions, [Z]% recovery.
 
 </td>
 </tr>
