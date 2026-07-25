@@ -115,8 +115,9 @@ Five-phase resilience overhaul: circuit breaker fault isolation, **Qdrant**-base
 `Node.js` `Go` `Qdrant` `BullMQ` `Socket.IO` `OpenTelemetry`
 
 > Instrumented end-to-end with **OpenTelemetry** distributed tracing across the async pipeline for real-time bottleneck diagnosis.
-
-</td>
+</tr>
+<tr>
+  </td>
 <td width="50%" valign="top">
 
 ### ⚙️ [Real-Time-Limit-Order-Book-Matching-Engine](https://github.com/psychic-coder/Real-Time-Limit-Order-Book-Matching-Engine/)
